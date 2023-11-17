@@ -1,1 +1,2 @@
-Console.log('I am From Salesforce Org');
+int b = 20;
+Console.log('I am From Salesforce Org'+ b);
